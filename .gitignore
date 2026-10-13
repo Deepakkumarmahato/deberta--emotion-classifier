@@ -69,6 +69,10 @@ instance/
 # Scrapy stuff:
 .scrapy
 
+#ingnore paths
+.pth
+.pt
+
 # Sphinx documentation
 docs/_build/
 
